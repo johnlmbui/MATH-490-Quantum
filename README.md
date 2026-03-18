@@ -1,5 +1,5 @@
 # MATH-490-Quantum
-Contents from UMBC's Quantum Computing Algorithms and Applications (MATH 490, Special Topics), taught by [Dr. Mohammadhossein Mohammadisiahroudi (he prefers Mohammad for short)](https://www.mohammad-mhms.com/home) in Fall 2025.
+Contents from UMBC's Quantum Computing Algorithms and Applications (MATH 490, Special Topics), taught by [Dr. Mohammadhossein Mohammadisiahroudi](https://www.mohammad-mhms.com/home) (he prefers Mohammad for short) in Fall 2025.
 
 ## Collection of resources graciously provided by Dr. Mohammad for those interested in quantum portfolio optimization.
 - [Github Repo of papers on quantum finance](https://github.com/siyuan-bruce/Quantum-Finance)
